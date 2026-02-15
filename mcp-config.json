@@ -1,9 +1,12 @@
 {
   "mcpServers": {
-    "todoist": {
+    "singularity": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@doist/todoist-ai"]
+      "args": ["-y", "mcp-remote", "https://api.singularity-app.com/mcp/sse"],
+      "env": {
+        "SINGULARITY_API_TOKEN": "e93661bd-51bb-4406-89d7-ee81b92af869"
+      }
     }
   }
 }
