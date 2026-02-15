@@ -3,6 +3,10 @@
 .env.local
 .env.*.local
 
+# MCP config (содержит API токены)
+.mcp.json
+mcp-config.json
+
 # Python
 __pycache__/
 *.py[cod]

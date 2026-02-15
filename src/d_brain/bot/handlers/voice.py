@@ -58,7 +58,7 @@ async def handle_voice(message: Message, bot: Bot) -> None:
             msg_id=message.message_id,
         )
 
-        await message.answer(f"🎤 {transcript}\n\n✓ Сохранено")
+        await message.answer("🎤 ✓ Сохранено")
         logger.info("Voice message saved: %d chars", len(transcript))
 
     except Exception as e:
