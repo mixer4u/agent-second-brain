@@ -8,7 +8,7 @@ Curated knowledge that persists across sessions. Layer 2 of Clawdbot memory arch
 |-------|-------|
 | Name | [Your name] |
 | Timezone | [Your timezone, e.g., UTC+5] |
-| Location | [City/Country] |
+| Location | Москва, Россия |
 | Primary language | [e.g., Russian/English] |
 
 ## Preferences
@@ -22,6 +22,12 @@ Curated knowledge that persists across sessions. Layer 2 of Clawdbot memory arch
 - Preferred response language: [Russian/English/Mixed]
 - Detail level: [Brief/Detailed]
 - Code comments: [Minimal/Verbose]
+
+### Regional Context
+- Учитывать сезонность продуктов для Москвы
+- Февраль: кабачки НЕ в сезон (сезон: июль-сентябрь)
+- Февраль в сезоне: тыква, морковь, свёкла, капуста, картофель, лук, чеснок, яблоки
+- Предпочтение сезонных продуктов
 
 ### Habits
 - Morning routine: [if relevant]
