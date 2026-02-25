@@ -8,11 +8,12 @@ Map of Content for learnings and insights.
 
 ## By Topic
 
-### Topic 1
-<!-- Links to related learnings -->
+### Строительство и анкерные крепления
+- [[thoughts/learnings/anchor-oval-hole-hilti-re500|Анкерное крепление М10 в овальные отверстия с Hilti HIT-RE 500]]
+- [[MOC/MOC-anchors|MOC: Анкерные крепления (база данных тех. паспортов)]]
 
-### Topic 2
-<!-- Links to related learnings -->
+### Бэкапы и инструменты
+- [[thoughts/learnings/backup-strategies-and-tools|Стратегии бэкапов и инструменты]]
 
 ---
 
